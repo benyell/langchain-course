@@ -1,6 +1,5 @@
 # LangChain Course
 
-Welcome to the LangChain course by Aurelio AI!
 
 ## Getting Started
 
